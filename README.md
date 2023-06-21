@@ -1,1 +1,0 @@
-# simple electron app that renames captchas so you can work faster and do your AI module
